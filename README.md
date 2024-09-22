@@ -6,7 +6,12 @@ We encourage professional and independent researchers, advanced students (master
 We so share some insightful files of our implementations in order to allow to any volunteer to contribute. 
 
 For our usage, we split our mtBCI-1.0 corpus into several datasets or corpora: 
-•	Latin-based script Datasets (en-bci, fr-bci); 
-•	French-based script Datasets (en-bci, fr-bci); 
-•	Mixed Datasets (en-bci, fr-bci), that is a mixture of Latin-based script and French-based script Datasets; 
-•	Synthesized Datasets (en-bci, fr-bci), that is a French-based synthesis of expressive and much more readable words, based on justified evidences. 
+•	Latin-based script Datasets (en-bci, fr-bci); <br/>
+•	French-based script Datasets (en-bci, fr-bci); <br/>
+•	Mixed Datasets (en-bci, fr-bci), that is a mixture of Latin-based script and French-based script Datasets; <br/>
+•	Synthesized Datasets (en-bci, fr-bci), that is a French-based synthesis of expressive and much more readable words, based on justified evidences. <br/>
+
+## Open-ended contribution to bci-related Data Creation  <br/>
+BCI Wikimedia Incubator: https://incubator.wikimedia.org/wiki/Wp/bci.  <br/>
+BCI Translatewiki: https://translatewiki.net/, the bci language is mentioned here as wawle (Thank you very much to Amir Aharoni for the translation rights.)  <br/>
+Open-ended Data Crowdsourcing website: https://pairing.excellence-integration.org. <br/>
