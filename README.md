@@ -18,4 +18,4 @@ Open-ended Data Crowdsourcing website: https://pairing.excellence-integration.or
 
 ![My Awesome Project](BCI-DataCollectionStrategy.png)
 
-**The Full mtBCI-1.0-Corpus will be available upon validation of the related paper.**
+**The Full mtBCI-1.0-Corpus will be available upon validation of the related paper**, but without the dictionary data (we provided instead the section where the data has been extracted).
