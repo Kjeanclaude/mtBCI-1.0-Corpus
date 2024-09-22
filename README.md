@@ -15,3 +15,7 @@ For our usage, we split our mtBCI-1.0 corpus into several datasets or corpora:
 BCI Wikimedia Incubator: https://incubator.wikimedia.org/wiki/Wp/bci.  <br/>
 BCI Translatewiki: https://translatewiki.net/, the bci language is mentioned here as wawle (Thank you very much to Amir Aharoni for the translation rights.)  <br/>
 Open-ended Data Crowdsourcing website: https://pairing.excellence-integration.org. <br/>
+
+![My Awesome Project](BCI Data Collection Strategy.png.png)
+
+**The mtBCI-1.0-Corpus will be available upon validation of the related paper.**
