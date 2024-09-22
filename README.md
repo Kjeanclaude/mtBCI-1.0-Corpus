@@ -16,6 +16,6 @@ BCI Wikimedia Incubator: https://incubator.wikimedia.org/wiki/Wp/bci.  <br/>
 BCI Translatewiki: https://translatewiki.net/, the bci language is mentioned here as wawle (Thank you very much to Amir Aharoni for the translation rights.)  <br/>
 Open-ended Data Crowdsourcing website: https://pairing.excellence-integration.org. <br/>
 
-![My Awesome Project](BCI Data Collection Strategy.png.png)
+![My Awesome Project](BCI-DataCollectionStrategy.png)
 
-**The mtBCI-1.0-Corpus will be available upon validation of the related paper.**
+**The Full mtBCI-1.0-Corpus will be available upon validation of the related paper.**
