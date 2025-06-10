@@ -11,6 +11,7 @@ Konan Jean-Claude, Kouassi. (October 2024) “Baoulé Related Parallel Corpora f
 International Journal of Computer Science & Information Technology (IJCSIT), Vol. 16, No. 5, pp. 1-21,
 Academy and Industry Research Collaboration Center (AIRCC), doi:10.5121/ijcsit.2024.16501.
 ```
+***My ORCID iD:*** https://orcid.org/0000-0002-4744-1335. <br/>
 
 For our usage, we split our mtBCI-1.0 corpus into several datasets or corpora:  <br/>
 •	Latin-based script Datasets (**en-bci**, **fr-bci**); <br/>
@@ -22,8 +23,7 @@ For our usage, we split our mtBCI-1.0 corpus into several datasets or corpora:  
 ***BCI Wikimedia Incubator:*** https://incubator.wikimedia.org/wiki/Wp/bci.  <br/>
 ***BCI Translatewiki:*** https://translatewiki.net/, the bci language is mentioned here as wawle (Thank you very much to Amir Aharoni for the translation rights.)  <br/>
 ***Open-ended Data Crowdsourcing website:*** https://pairing.excellence-integration.org. <br/>
-***A demo explaining how to run our fine-tuned bci models:*** https://youtu.be/a8LeXvEv5Uw <br/><br/>
-***My ORCID iD:*** https://orcid.org/0000-0002-4744-1335 <br/>
+***A demo explaining how to run our fine-tuned bci models:*** https://youtu.be/a8LeXvEv5Uw <br/>
 
 ![My Awesome Project](BCI-DataCollectionStrategy.png)
 
