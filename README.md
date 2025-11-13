@@ -27,4 +27,8 @@ For our usage, we split our mtBCI-1.0 corpus into several datasets or corpora:  
 
 ![My Awesome Project](BCI-DataCollectionStrategy.png)
 
-**The Full mtBCI-1.0-Corpus will be available upon validation of the related paper**, but without the dictionary data (we provided instead the section where this data has been extracted).
+**The Full mtBCI-1.0-Corpus is available under .xls file**, but without the dictionary data (we provided instead the section where this data has been extracted).
+
+We provide our work under the **Creative Commons (CC) Attribution license** that authorizes unrestricted circulation and reproduction of the dataset by anybody,
+**as long as the original work is properly cited**. 
+
